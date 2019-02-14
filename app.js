@@ -1,0 +1,1 @@
+consol.log(' i am tired of this shit');
